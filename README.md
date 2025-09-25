@@ -1,7 +1,7 @@
 # seniorcapstone-ids
 # Senior Capstone — Network IDS (SYN Flood Detector)
 
-**One-line:** Proof-of-concept Network Intrusion Detection System that simulates SYN-flood attacks, captures PCAPs, analyzes packet behavior, logs to a SQL DB and triggers alerts on a VM.
+# Proof-of-concept Network Intrusion Detection System that simulates SYN-flood attacks, captures PCAPs, analyzes packet behavior, logs to a SQL DB and triggers alerts on a VM.
 
 ---
 
