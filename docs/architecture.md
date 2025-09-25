@@ -1,0 +1,3 @@
+# Architecture — Network IDS (SYN Flood Detector)
+
+...
